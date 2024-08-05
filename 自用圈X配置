@@ -1,7 +1,9 @@
 # 基于[＠KOP-XIAO](https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf)修改
 # Author:https://github.com/Repcz
 # TG:https://t.me/QVQ_Channel
-#
+# 最后由我本人在LUCY懒人配置上进行修改
+# 增加需要主流策略及分流，大量js脚本
+# 增加大量图标远程订阅，TASK订阅
 # 以 ';' 或 '#' 或 '//' 开头的配置文件行为注释行
 #
 # 最后更新时间: 2024-8-06 17:00
